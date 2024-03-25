@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RxJava</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="data">Data</string>
+    <string name="btnGetDataREST">Get REST API data</string>
+    <string name="btnGetDataJSON">Get JSON data</string>
+    <string name="tvUploadState">Data upload state</string>
+    <string name="tvJsonData">Json Data</string>
+    <string name="tvRestData">Rest Api Data</string>
+    <string name="btnGetRestData">Get REST API data</string>
+    <string name="tvDataState">There`s so much data, go check it!</string>
+</resources>

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 0,
+    "lesson": "Discrete math"
+  },
+  {
+    "id": 1,
+    "lesson": "Math analysis"
+  },
+  {
+    "id": 2,
+    "lesson": "TOE"
+  },
+  {
+    "id": 3,
+    "lesson": "English"
+  },
+  {
+    "id": 4,
+    "lesson": "Algorithms and data structures"
+  }
+]
